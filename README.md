@@ -20,7 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-using-css-B1MvcbqM5)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Profile-Card-Component/)
 
 ## My process
